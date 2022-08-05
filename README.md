@@ -13,4 +13,4 @@ There are a variety of ways journalists use web archives when investigating stor
 * memento_url_prob - if the memento was not referenced directly, what the problem was
 * memento_date - the date of the memento extracted from the memento_url
 
-The blog entry [Web Archiving in Popular Media II: User Tasks of Journalists](https://ws-dl.blogspot.com/2022/08/2022-08-10-web-archiving-in-popular.html) talks more about this data set.
+The blog entry [Web Archiving in Popular Media II: User Tasks of Journalists](https://ws-dl.blogspot.com/2022/08/2022-08-04-web-archiving-in-popular.html) talks more about this data set.
